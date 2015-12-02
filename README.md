@@ -12,6 +12,7 @@ Look at the following files!
     - BSP_UART_Init in bsp_uart.c
     
 Was developed by hackdino according to the following pattern:
+
     [Keeping the Data in Scope](https://doc.micrium.com/display/osiiidoc/Keeping+the+Data+in+Scope)
     
 Usage:
