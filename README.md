@@ -1,13 +1,18 @@
 # Uart_Example
-UART usage with uc/OS-3 from Micrium.
-Hardware => XMC4500 Relax Kit from Infineon.
+## UART usage with uc/OS-3 from Micrium.
+
+## Hardware => XMC4500 Relax Kit from Infineon.
 
 Look at the following files!
-    COM-Task in app.c
-    BSP_IntHandler_Uart_Recive in bsp_init.c
-    BSP_UART_Init in bsp_uart.c
+
+    ..* COM-Task in app.c
+    
+    ..* BSP_IntHandler_Uart_Recive in bsp_init.c
+    
+    ..* BSP_UART_Init in bsp_uart.c
     
 Was developed by hackdino according to the following pattern:
+
     [a link](https://doc.micrium.com/display/osiiidoc/Keeping+the+Data+in+Scope)
     
 Usage:
