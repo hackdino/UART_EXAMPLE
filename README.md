@@ -18,6 +18,7 @@ Was developed by hackdino according to the following pattern:
     
 Usage:
     PIN_Layout: RXD = P0.0  TXD = P0.1 Mode: 8N1 9600
+    
     Start Byte => 0x1  Stop Byte => 0x17
     
     Example: 
