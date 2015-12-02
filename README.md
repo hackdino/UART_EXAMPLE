@@ -7,13 +7,12 @@ Look at the following files!
 
     - COM-Task in app.c
     
-    ..* BSP_IntHandler_Uart_Recive in bsp_init.c
+    - BSP_IntHandler_Uart_Recive in bsp_init.c
     
-    ..* BSP_UART_Init in bsp_uart.c
+    - BSP_UART_Init in bsp_uart.c
     
 Was developed by hackdino according to the following pattern:
-
-    [a link](https://doc.micrium.com/display/osiiidoc/Keeping+the+Data+in+Scope)
+    [Keeping the Data in Scope](https://doc.micrium.com/display/osiiidoc/Keeping+the+Data+in+Scope)
     
 Usage:
     PIN_Layout: RXD = P0.0  TXD = P0.1 Mode: 8N1 9600
