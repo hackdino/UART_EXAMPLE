@@ -5,7 +5,7 @@
 
 Look at the following files!
 
-    ..* COM-Task in app.c
+    - COM-Task in app.c
     
     ..* BSP_IntHandler_Uart_Recive in bsp_init.c
     
