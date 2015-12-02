@@ -29,4 +29,7 @@ Usage:
   		    Message : FHTW
   		    Lenght: 4
   		    
+  		    
+Download the .zip file and import it in eclipse.
+  		    
   
