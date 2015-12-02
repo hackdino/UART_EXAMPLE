@@ -13,7 +13,7 @@ Look at the following files!
     
 Was developed by hackdino according to the following pattern:
 
-    [Keeping the Data in Scope](https://doc.micrium.com/display/osiiidoc/Keeping+the+Data+in+Scope)
+[Keeping the Data in Scope](https://doc.micrium.com/display/osiiidoc/Keeping+the+Data+in+Scope)
     
 Usage:
     PIN_Layout: RXD = P0.0  TXD = P0.1 Mode: 8N1 9600
