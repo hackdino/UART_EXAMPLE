@@ -1,4 +1,4 @@
-# Uart_Example
+# Uart Example
 ###### UART usage with uc/OS-3 from Micrium.
 
 ###### Hardware => XMC4500 Relax Kit from Infineon.
